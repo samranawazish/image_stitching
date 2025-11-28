@@ -1,2 +1,4 @@
 # image_stitching
-This code stitches natural and man-made images without any seam
+run command: python masking3.py "path to your images folder"
+Output:
+![Alt text](images/results/panorama.jpg)
